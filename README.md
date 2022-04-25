@@ -2,6 +2,7 @@
 
 ![desktop](/img/desktop.png | width=100)
 ![mobile](/img/mobile.png =250x250)
+<img src="/img/desktop.png" width="100" height="100">
 
 # Getting Started with Create React App
 

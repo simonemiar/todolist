@@ -1,4 +1,7 @@
 # REACT - TODOLIST
+small react project - made as a classic todolist where you can add tasks <br/>
+
+
 > DESKTOP VERSION
 <img src="/img/desktop.png" width="300" >
 

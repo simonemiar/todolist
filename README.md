@@ -1,8 +1,6 @@
 # REACT - TODOLIST
-
-![desktop](/img/desktop.png | width=100)
-![mobile](/img/mobile.png =250x250)
-<img src="/img/desktop.png" width="100" height="100">
+<img src="/img/desktop.png" width="300" >
+<img src="/img/mobile.png" width="300" >
 
 # Getting Started with Create React App
 

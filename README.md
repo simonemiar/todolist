@@ -1,7 +1,7 @@
 # REACT - TODOLIST
 
-![desktop](/img/desktop.png =50x50)
-![mobile](/img/mobile.png =50x50)
+![desktop](/img/desktop.png | width=100)
+![mobile](/img/mobile.png =250x250)
 
 # Getting Started with Create React App
 

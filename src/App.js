@@ -4,8 +4,8 @@ import './App.css';
 
 export default function App(){
   const[tasks, setTasks] = useState([
-    {id:1, task: "Clean stuff", completed: false,},
-    {id:2, task: "Pick up the kids", completed: true,},
+    {id:1, task: "Drink rocket fuel (read: coffee)", completed: false,},
+    {id:2, task: "Arrive at your future internship", completed: true,},
   ]);
   const [showCompleted, setShowCompleted] = useState(true);
   function deleteitem(id){
@@ -49,11 +49,11 @@ export default function App(){
         {/* <label htmlFor="name">Add a task below:</label> */}
         <input required type="text" id="name" name="task"/>
         <button>Add Task</button>
-        <button className="old_tasks" onClick={() => {setShowCompleted(oldState=> !oldState);
+      </form>
+      <button className="old_tasks" onClick={() => {setShowCompleted(oldState=> !oldState);
       }}
       >see completed tasks
       </button>
-      </form>
       </fieldset>
       <fieldset>
       <legend>INCOMPLETED TASKS</legend>

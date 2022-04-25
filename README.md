@@ -1,5 +1,5 @@
 # REACT - TODOLIST
-small react project - made as a classic todolist where you can add tasks <br/>
+small react project - made as a classic todolist where you can add tasks, complete, delete and undo them <br/>
 
 
 > DESKTOP VERSION

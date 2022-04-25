@@ -1,5 +1,7 @@
 # REACT - TODOLIST
+> DESKTOP VERSION
 <img src="/img/desktop.png" width="300" >
+> MOBILE VERSION
 <img src="/img/mobile.png" width="300" >
 
 # Getting Started with Create React App

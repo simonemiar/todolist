@@ -1,5 +1,6 @@
 # REACT - TODOLIST
 First react project <br/> Made a classic todolist where you can add, complete, delete and undo tasks <br/>
+[LIVE DEMO: https://todolist-simonemiar.netlify.app/](https://todolist-simonemiar.netlify.app/).
 
 
 > DESKTOP VERSION
